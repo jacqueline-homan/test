@@ -1,0 +1,5 @@
+/Users/admin/Projects/JetCodeInterview/JetCodeInterview/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/Users/admin/Projects/JetCodeInterview/JetCodeInterview/bin/Debug/JetCodeInterview.exe.mdb
+/Users/admin/Projects/JetCodeInterview/JetCodeInterview/bin/Debug/JetCodeInterview.exe
+/Users/admin/Projects/JetCodeInterview/JetCodeInterview/obj/x86/Debug/JetCodeInterview.exe
+/Users/admin/Projects/JetCodeInterview/JetCodeInterview/obj/x86/Debug/JetCodeInterview.exe.mdb
